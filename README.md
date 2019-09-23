@@ -32,8 +32,9 @@ Unzip the file. Once unzipped, go into the file and double click "  " to play th
 
 ## Screenshots and video
 
-[Youtube Link](https://www.youtube.com/watch?v=u1ICIpVdFgA)
 [![DesertSpeedwayVideo](https://i.ytimg.com/vi/u1ICIpVdFgA/hqdefault.jpg)](https://www.youtube.com/watch?v=u1ICIpVdFgA)
+
+[Youtube Link](https://www.youtube.com/watch?v=u1ICIpVdFgA)
 
 ## Authors
 
