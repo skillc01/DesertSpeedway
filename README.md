@@ -7,20 +7,6 @@ Obstacle - Drive around a obstacle course avoiding different stationary and movi
 ## Getting Started
 
 You find need Unity version 2018.2.5f1 or later downloaded. 
-Download the zip file and extract all.
-Double click '  ' and select at which size you would like to play.  
-
-### Prerequisites
-
-You find need Unity version 2018.2.5f1 or later downloaded.
-https://unity3d.com/get-unity/download
-
-Follow the link above and select an appropriate version for your pc.
-Unity can be downloaded for free. 
-
-### Installing
-
-Unzip the file. Once unzipped, go into the file and double click "  " to play the game.
 
 ## Built With
 
