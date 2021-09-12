@@ -24,7 +24,7 @@ You find need Unity version 2018.2.5f1 or later downloaded.
 
 ## Authors
 
-* **Chloe Skillman** - *Game Creation* - [Github](https://github.com/ChloeLS)
+* **Chloe Skillman** - *Game Creation* - [Github](https://github.com/skillc01)
                                          [LinkedIn](https://www.linkedin.com/in/chloe-skillman-b80941183/)
 
 ## Acknowledgments
